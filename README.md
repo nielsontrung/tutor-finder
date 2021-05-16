@@ -11,7 +11,7 @@ Tutor Finder is an innovative concept mobile application created to match univer
 Try a live demo of the high-fidelity application by clicking the link below!
 - https://xd.adobe.com/view/b754883f-09ca-4932-4cb7-bb36032a0be1-c165/
 
-Try the low-fidelity application by downloading the Tutor Finder pdf in the repo!
+Try the low-fidelity application by downloading the TutorFinderLowFidelity.pdf in the repo!
  
 ## Introduction
 Tutor Finder is a mobile application created to match university students with peer tutors for tutoring sessions located on their university campus. The focus of the application is to maximize the speed and ease of matching, while still guaranteeing the quality of the user interaction. The application assists users in seeking help with their studies, and allows them to build a network of peers at their university who wish to tutor and/or be tutored.
