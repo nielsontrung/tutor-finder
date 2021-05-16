@@ -1,12 +1,17 @@
 # tutor-finder
-- [Executive Summary](#executive-summary)
+Tutor Finder is an innovative concept mobile application created to match university students with peer tutors quickly, and easy as possible. The concept application was implemented using Balsamiq a low-fidelity prototyping wireframe application and AdobeXD a high-fidelity wireframe application.
+ 
+- [Live Demo](#live-demo)
 - [Introduction](#introduction)
 - [Design Problem](#design-problem)
 - [Conclusions](#conclusions)
 - [Authors](#authors)
  
-## Executive Summary
-Tutor Finder is an innovative mobile application created to match university students with peer tutors quickly, and with as little barrier to entry as possible.
+## Live Demo
+Try a live demo of the high-fidelity application by clicking the link below!
+- https://xd.adobe.com/view/b754883f-09ca-4932-4cb7-bb36032a0be1-c165/
+
+Try the low-fidelity application by downloading the Tutor Finder pdf in the repo!
  
 ## Introduction
 Tutor Finder is a mobile application created to match university students with peer tutors for tutoring sessions located on their university campus. The focus of the application is to maximize the speed and ease of matching, while still guaranteeing the quality of the user interaction. The application assists users in seeking help with their studies, and allows them to build a network of peers at their university who wish to tutor and/or be tutored.
@@ -26,4 +31,7 @@ The initial problem we sought to solve with Tutor FInder was how to match studen
 - Scott
 - Shaina
 - Sukhjot
+ 
+ 
+ 
 
